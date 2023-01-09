@@ -3,8 +3,6 @@
 - 💻 I’m interested in Virtual Reality, Control Systems, and Robotics.
 - ♟️ Hobbies: Volleyball, Football, Hiking
 
-### Connect with me:
-
 
 ### Languages and Tools:
 
