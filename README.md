@@ -1,8 +1,6 @@
 ## Hello! I am Joe Saroufim
-- 👨‍🎓 I'm a senior Mechanical Engineering student minoring in Computer Science in the Lebanese American University!
-- 💻 I’m interested in Virtual Reality, Robot-human interaction, and Web Development 
-- 🌱 I’m currently learning Mobile Development
-- 🎯 2022 Goals: I'm graduating in May 2022 and planning for my future academic/work career
+- 👨‍🎓 I'm an Electrical and Computer Engineering PhD Student at the Ohio State University, Columbus, Ohio.
+- 💻 I’m interested in Virtual Reality, Control Systems, and Robotics.
 - ♟️ Hobbies: Volleyball, Football, Hiking
 
 ### Connect with me:
